@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mhairer]]></title>
+        <description><![CDATA[mhairer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 23:03:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About me]]></title>
+            <description><![CDATA[<article><h1>About me</h1><p>Martin Hairer leads IT Technology Development for MED-EL worldwide with over 12 years of global experience in digital marketing and social media specializing in entertainment, lifestyle and consumer products. Her immersion and passion for digital earned her a rich background across strategy, behavioral marketing, user-centric design, creative and web development, CRM and analytics.</p></article>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">181388f3-e2bc-4ff6-8030-d830d94621ab</guid>
+            <pubDate>Sat, 02 Jan 2016 23:03:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
