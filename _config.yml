@@ -1,14 +1,28 @@
+name: mhairer
+favicon: null
 layout_spectrum: 0.2634408
-typography_spectrum: 0.8100358
+typography_spectrum: 0.90594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0
-  rhythmicContrast: 0.2777778
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: mhairer
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.2777778
+purpose: []
