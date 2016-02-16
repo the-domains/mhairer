@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mhairer]]></title>
         <description><![CDATA[mhairer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mhairer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 05:36:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 05:36:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mhairer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About me]]></title>
+            <description><![CDATA[<article><h1>About me</h1><p>Martin Hairer leads IT Technology Development for MED-EL worldwide with over 12 years of global experience in digital marketing and social media specializing in entertainment, lifestyle and consumer products. Her immersion and passion for digital earned her a rich background across strategy, behavioral marketing, user-centric design, creative and web development, CRM and analytics.</p></article>]]></description>
+            <link>https://thegrid.ai/mhairer/about-me/index.html</link>
+            <guid isPermaLink="false">181388f3-e2bc-4ff6-8030-d830d94621ab</guid>
+            <pubDate>Tue, 16 Feb 2016 05:36:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3272872-5681-4e71-a298-70365c31c9b5.jpg">]]></description>
-            <link>undefined998fb468-e29e-439b-9e10-5817086f0e5f/index.html</link>
+            <link>https://thegrid.ai/mhairer/998fb468-e29e-439b-9e10-5817086f0e5f/index.html</link>
             <guid isPermaLink="false">998fb468-e29e-439b-9e10-5817086f0e5f</guid>
             <pubDate>Tue, 16 Feb 2016 05:36:10 GMT</pubDate>
         </item>
